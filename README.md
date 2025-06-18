@@ -3,6 +3,9 @@
 
 This project uses the `turtle` module in Python to draw a cartoon-style face with two expressive eyes and a simple mouth. The project was designed as part of a graphics programming assignment to develop precision and creative control with turtle movements.
 
+## Demo
+![Colorful Squares Screenshot](Screenshot.png)
+
 ## 🧠 Features
 - Green filled circle face
 - Two white and black layered eyes
